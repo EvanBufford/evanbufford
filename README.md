@@ -1,7 +1,7 @@
 Hi 👋 My name is Evan Bufford
 =============================
 
-Freelance programmer | Tech Enthusiast | Security | AI
+Freelance Programmer | Tech Enthusiast | Security | AI
 ------------------------------------------------------
 
 I am the new kid in this space and am learning python for my main and learning other languages to broaden my skills. I am passionate in learning new technologies, security, and AI to help better society.

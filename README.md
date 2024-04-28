@@ -9,8 +9,8 @@ I am the new kid in this space and am learning python for my main and learning o
 *   🌍  I'm based in Atlanta, GA
 *   🖥️  See my portfolio at [evanbufford.com](http://evanbufford.com)
 *   ✉️  You can contact me at [ebufford@proton.me](mailto:ebufford@proton.me)
-*   🧠  I'm learning Python
-*   🤝  I'm open to collaborating on on any projects that help expand my skills in python.### Skills 
+*   🧠  I'm learning Pyhton, JavaScript, and C
+*   🤝  I'm open to collaborating on on any projects that help expand my skills in Python and JavaScript.### Skills 
 
                     
 ### Skills  
